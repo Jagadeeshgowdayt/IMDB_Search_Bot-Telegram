@@ -14,7 +14,7 @@ const apiKey = process.env.IMBD_API_KEY;
 const tgToken = process.env.BOT_TOKEN;
 const bot = new Telegraf(tgToken);
 
-const botGithubLink = "https://github.com/aswinkr77/IMDB_Search_Bot-Telegram";
+const botGithubLink = "https://hii.com";
 
 const startMessage = `
 Welcome to IMDB Search Bot
